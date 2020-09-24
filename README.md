@@ -1,13 +1,13 @@
-# Projeto Integrador FATEC 20202, 1º Semestre ADS Grupo 3 📚
+# Projeto Integrador FATEC 20202, 1º Semestre ADS Grupo 3 📚:octocat:
 
 
-## ℹ️ Prótipos 
+## :art: Prótipos 
 ---
  - [Administrador do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=65%3A1274&scaling=min-zoom)
   
  - [Usuário do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=160%3A2242&scaling=min-zoom)
 
-## ✏️ Integrantes :
+## Integrantes :
 ---
 
 - [Gabriel de Oliveira](https://www.google.com/)
