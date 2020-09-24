@@ -1,4 +1,4 @@
-# Projeto Integrador FATEC 20202, 1º Semestre ADS Grupo 3 📚:octocat:
+# PI FATEC 20202, 1º Semestre ADS Grupo 3 📚:octocat:
 
 
 ## :art: Prótipos :
