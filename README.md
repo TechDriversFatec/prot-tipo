@@ -1,11 +1,5 @@
 # Projeto Integrador FATEC 20202, 1º Semestre ADS Grupo 3 📚
----
 
-
-   
-# We must fetch at least the immediate parents so that if this is
-# a pull request then we can checkout the head.
-fetch-depth: 2
 
 # If this run was triggered by a pull request event, then checkout
 # the head of the pull request instead of the merge commit.
