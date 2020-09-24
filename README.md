@@ -7,11 +7,12 @@
   
  - [Usuário do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=160%3A2242&scaling=min-zoom)
 
-# ✏️ Integrantes :
+## ✏️ Integrantes :
 ---
+
+- [Gabriel de Oliveira](https://www.google.com/)
+- [Gustavo H. S. De Oliveira](https://www.linkedin.com/in/gustavo-oliveira-a671b71b5/)
+- [Kevin Felipe da Silva Pereira](https://www.google.com/)
+- [Monique Carniello](https://www.google.com/)
 - [Thiago Henrique Ferreira](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
-- [Monique](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
-- [Gustavo](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
-- [Gabriel](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
-- [Kevin](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
-- [Tiago Fukuoka](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
+- [Tiago Lopes Fukuoka](https://www.google.com/)
