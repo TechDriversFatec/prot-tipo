@@ -11,6 +11,8 @@ if: ${{ github.event_name == 'pull_request' }}
 
 #  https://git.io/JvXDl
 
-# ✏️
+# ✏️ Integrantes :
+
+- [Thiago Henrique Ferreira](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
 
 
