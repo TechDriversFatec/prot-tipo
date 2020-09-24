@@ -3,7 +3,7 @@
 
 ## :art: Prótipos :
 
-<img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/Cover.png">
+<img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/Cover.png"  height="400" width="650">
 
  - [Administrador do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=65%3A1274&scaling=min-zoom)
   
