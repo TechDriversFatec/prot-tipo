@@ -1,16 +1,7 @@
 # Projeto Integrador FATEC 20202, 1º Semestre ADS Grupo 3
 ---
 
-name: "CodeQL"
-
-on:
-  push:
-    branches: [master, ]
-  pull_request:
-    # The branches below must be a subset of the branches above
-    branches: [master]
-  schedule:
-    - cron: '0 16 * * 4'
+name: "PI-GROUP.3"
 
 jobs:
   analyse:
