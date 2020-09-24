@@ -2,7 +2,8 @@
 
 
 ## :art: Prótipos :
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F0vJ4fIZwk8dtKYKwsZpGIp%2FGRUPO-III-FATEC&chrome=DOCUMENTATION" allowfullscreen></iframe>
+
+
 
  - [Administrador do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=65%3A1274&scaling=min-zoom)
   
