@@ -16,7 +16,7 @@
 
 - [Gabriel de Oliveira](https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/)
 - [Gustavo H. S. De Oliveira](https://www.linkedin.com/in/gustavo-oliveira-a671b71b5/)
-- [Kevin Felipe da Silva Pereira](https://www.google.com/)
-- [Monique Carniello](https://github.com/Monique-c)
+- [Kevin Felipe da Silva Pereira](https://www.linkedin.com/in/kevin-pereira-3a7aa31b7)
+- [Monique Carniello](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
 - [Thiago Henrique Ferreira](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
 - [Tiago Lopes Fukuoka](https://github.com/Tiagofukuoka)
