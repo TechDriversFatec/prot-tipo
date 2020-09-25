@@ -14,9 +14,9 @@
 
 ## Integrantes :
 
-- [Gabriel de Oliveira](https://www.google.com/)
+- [Gabriel de Oliveira](https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/)
 - [Gustavo H. S. De Oliveira](https://www.linkedin.com/in/gustavo-oliveira-a671b71b5/)
 - [Kevin Felipe da Silva Pereira](https://www.google.com/)
-- [Monique Carniello](https://www.google.com/)
+- [Monique Carniello](https://github.com/Monique-c)
 - [Thiago Henrique Ferreira](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
-- [Tiago Lopes Fukuoka](https://www.google.com/)
+- [Tiago Lopes Fukuoka](https://github.com/Tiagofukuoka)
