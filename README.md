@@ -3,7 +3,7 @@
 
 ## :art: Prótipos :
 
-<img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/Cover.png"  height="400" width="650">
+<div style="text-align:center"><img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/Cover.png"  height="400" width="650"></div>
 
 ### Clique no link abaixo para visualizar o protótipo.
 
