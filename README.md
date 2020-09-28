@@ -1,5 +1,6 @@
 # PI FATEC 20202, 1º Semestre ADS Grupo 3 📚:octocat:
 
+> e-SCHOLAR : ![alt text](https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/logo.jpg " Logo 1")
 
 ## :art: Prótipos :
 
@@ -20,3 +21,12 @@
 - [Monique Carniello](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
 - [Thiago Henrique Ferreira](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
 - [Tiago Lopes Fukuoka](https://github.com/Tiagofukuoka)
+
+## Regra de negócio : 
+
+Regra de Negócio
+Amostras gratuitas de conteúdo mediante cadastro de e-mail para posterior ação de marketing
+Pagamento por boleto ou cartão de crédito
+Valor por disciplina e valor para acesso a todas. 
+Acesso vitalício e ilimitado
+Desistência da compra de acordo com a legislação vigente
