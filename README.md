@@ -4,7 +4,7 @@
 
 ## :art: Prótipos :
 
-<img align="center" src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Cover.png"  height="200" width="450">
+<img align="center" src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Cover.png"  height="250" width="450">
 
 ### Clique no link abaixo para visualizar o protótipo.
 
