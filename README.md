@@ -1,4 +1,4 @@
-![alt text](https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/logo.jpg "Logo 1"). e-SCHOLAR
+![alt text](https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/logo.jpg "Logo 1") e-SCHOLAR
 
 # PI FATEC 20202, 1º Semestre ADS Grupo 3 📚:octocat:
 
