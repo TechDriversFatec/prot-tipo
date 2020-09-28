@@ -1,6 +1,6 @@
 # PI FATEC 20202, 1º Semestre ADS Grupo 3 📚:octocat:
 
-![alt text](https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/logo.jpg "Logo 1") __e-SCHOLAR__.
+![alt text](https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/logo.jpg "Logo 1") ##__e-SCHOLAR__.
 
 ## :art: Prótipos :
 
