@@ -15,12 +15,15 @@
 
 ## Integrantes :
 
-- [Gabriel de Oliveira](https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/)
-- [Gustavo H. S. De Oliveira](https://www.linkedin.com/in/gustavo-oliveira-a671b71b5/)
-- [Kevin Felipe da Silva Pereira](https://www.linkedin.com/in/kevin-pereira-3a7aa31b7)
-- [Monique Carniello](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
-- [Thiago Henrique Ferreira](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
-- [Tiago Lopes Fukuoka](https://github.com/Tiagofukuoka)
+- [Gabriel de Oliveira - ST](https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/)
+- [Gustavo H. S. De Oliveira - ST](https://www.linkedin.com/in/gustavo-oliveira-a671b71b5/)
+- [Kevin Felipe da Silva Pereira - ST](https://www.linkedin.com/in/kevin-pereira-3a7aa31b7)
+- [Monique Carniello - ST](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
+- [Thiago Henrique Ferreira - SM](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
+- [Tiago Lopes Fukuoka - ST](https://github.com/Tiagofukuoka)
+
+`SM - Scrum Master`
+`ST - Scrum Team`
 
 ## Regra de negócio : 
 
