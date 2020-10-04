@@ -31,7 +31,7 @@ O grupo 03 é formado por:
 
 ## Tecnologias utilizadas no desenvolvimento
 
-<img align="center" src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Tecnologias.jpg"
+<img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Tecnologias.jpg">
 
 
 ## Cronograma de entrega
@@ -45,24 +45,24 @@ O grupo 03 é formado por:
 |                                       |
 | **SPRINT 01: 17/10/2020**             |
 | Tela de cadastro do administrador     |
-| Tela de cadastro das matérias         |
-| Conteúdo de duas matérias             |
+| Tela de cadastro das displinas        |
+| Conteúdo de duas disciplinas          |
 |                                       |
 |                                       |
 | **SPRINT 2: 08/11/2020**              |
 | Funcionalidade customizada            |
 | Carrinho de compras                   |
 | Tela de créditos e compras anteriores |
-| Conteúdo de duas matérias             |
+| Conteúdo de duas disciplinas          |
 |                                       |
 |                                       |
 | **SPRINT 3: 29/11/2020**              |
 | Telas de login                        |
 | Tela inicial                          |
-| Conteúdo de duas matérias             |
+| Conteúdo de duas disciplinas          |
 | Tela de desistênia da compra          |
 | Relatórios                            |
-| Conteúdo de duas matérias             |
+
 
 
 ## Entregas
