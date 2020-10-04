@@ -5,17 +5,17 @@
 
 ## Apresentação
 
-Somos alunos do 1º semestre (2020-2) do curso de Análise e desenvolvilmento de Sistemas da Fatec São José dos Campos - Prof. Jessen Vidal
+Somos alunos do 1º semestre (2020-2) do curso de Análise e desenvolvimento de Sistemas da Fatec São José dos Campos - Prof. Jessen Vidal.
 O grupo 03 é formado por:
-- [Gabriel de Oliveira - ST](https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/)
-- [Gustavo H. S. De Oliveira - ST](https://www.linkedin.com/in/gustavo-oliveira-a671b71b5/)
-- [Kevin Felipe da Silva Pereira - ST](https://www.linkedin.com/in/kevin-pereira-3a7aa31b7)
-- [Monique Carniello - ST](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
+- [Gabriel de Oliveira - DT](https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/)
+- [Gustavo H. S. De Oliveira - DT](https://www.linkedin.com/in/gustavo-oliveira-a671b71b5/)
+- [Kevin Felipe da Silva Pereira - DT](https://www.linkedin.com/in/kevin-pereira-3a7aa31b7)
+- [Monique Carniello - DT](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
 - [Thiago Henrique Ferreira - SM](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
-- [Tiago Lopes Fukuoka - ST](https://github.com/Tiagofukuoka)
+- [Tiago Lopes Fukuoka - DT](https://github.com/Tiagofukuoka)
 
 `SM - Scrum Master`
-`ST - Scrum Team`
+`DT - Developers Team`
 
 
 ## Desafio proposto
