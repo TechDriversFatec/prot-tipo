@@ -1,4 +1,4 @@
-### E-Scholar - site de conteúdos didáticos universitários
+# E-Scholar - site de conteúdos didáticos universitários
 
 *aqui vai a nova capa do projeto com o logo do site*
 
@@ -31,7 +31,7 @@ O grupo 03 é formado por:
 
 ## Tecnologias utilizadas no desenvolvimento
 
-*a imagem dos ícones vai aqui*
+<img align="center" src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Tecnologias.jpg"
 
 
 ## Cronograma de entrega
