@@ -1,6 +1,18 @@
 # E-Scholar - site de conteúdos didáticos universitários
 
-*aqui vai a nova capa do projeto com o logo do site*
+*ficaria cbom tirar o título e colocar ele na imagem com o logo? testar pra ver*
+
+
+## Resumo do projeto
+
+ Desenvolver um site de venda de conteúdo didático universitário que contenha matariais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
+ 
+* Matemática Discreta (gráficos e lógica);
+* Português (pontuação e concordância);
+* Lógica de Programação;
+* Inglês;
+* Laboratório de Hardware;
+* Arquitetura e Organização de Computadores.
 
 
 ## Apresentação
@@ -16,17 +28,6 @@ O grupo 03 é formado por:
 
 `SM - Scrum Master`
 `DT - Developers Team`
-
-
-## Desafio proposto
-
- Desenvolver um site de venda de conteúdo didático universitário que contenha matérias em formato de texto, vídeo e jogos, das seguintes disciplinas:
-* Matemática Discreta (gráficos e lógica);
-* Português (pontuação e concordância);
-* Lógica de Programação;
-* Inglês;
-* Laboratório de Hardware;
-* Arquitetura e Organização de Computadores.
 
 
 ## Tecnologias utilizadas no desenvolvimento
