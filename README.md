@@ -5,7 +5,7 @@
 
 ## Apresentação
 
-Somos alunos do 1º semestre (2020-2) do curso de Análise e desenvolvimento de Sistemas da Fatec São José dos Campos - Prof. Jessen Vidal.
+Somos alunos da 1º semestre A (2020-2) do curso de Análise e Desenvolvimento de Sistemas da Fatec São José dos Campos - Prof. Jessen Vidal.
 O grupo 03 é formado por:
 - [Gabriel de Oliveira - DT](https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/)
 - [Gustavo H. S. De Oliveira - DT](https://www.linkedin.com/in/gustavo-oliveira-a671b71b5/)
@@ -20,7 +20,7 @@ O grupo 03 é formado por:
 
 ## Desafio proposto
 
- Desenvolver um site de venda de conteúdo didático universitário que contenha matérias em formato de texto, vídeo e jogos, das seguintes disciplinas:
+ Desenvolver um site de venda de conteúdo didático universitário que contenha materiais em formato de texto, vídeo e jogos, das seguintes disciplinas:
 * Matemática Discreta (gráficos e lógica);
 * Português (pontuação e concordância);
 * Lógica de Programação;
@@ -31,10 +31,16 @@ O grupo 03 é formado por:
 
 ## Tecnologias utilizadas no desenvolvimento
 
+
 <img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Tecnologias.jpg">
 
+* Planejamento: Trello, Discord e Figma
+*
+*
+*
 
-## Cronograma de entrega
+
+## Cronograma de entregas
 
 | **SPRINT 0: 27/09/2020**              |
 | :-----------------------------------: |
@@ -65,7 +71,9 @@ O grupo 03 é formado por:
 
 
 
+
 # Entregas
+
 
 ## Sprint 0
 
