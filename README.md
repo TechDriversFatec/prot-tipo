@@ -56,7 +56,6 @@ O grupo 03 é formado por:
 |                                       |
 |                                       |
 | **SPRINT 2: 08/11/2020**              |
-| Funcionalidade customizada            |
 | Carrinho de compras                   |
 | Tela de créditos e compras anteriores |
 | Conteúdo de duas disciplinas          |
@@ -66,7 +65,7 @@ O grupo 03 é formado por:
 | Telas de login                        |
 | Tela inicial                          |
 | Conteúdo de duas disciplinas          |
-| Tela de desistência da compra         |
+| Funcionalidade customizada            |
 | Relatórios                            |
 
 
