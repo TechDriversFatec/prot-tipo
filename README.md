@@ -3,9 +3,9 @@
 *ficaria bom tirar o título e colocar ele na imagem com o logo? testar pra ver*
 
 
-## Resumo do projeto
+## Objetivo do projeto
 
- Desenvolver um site de venda de conteúdo didático universitário que contenha matariais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
+ Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático universitário que contenha materiais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
  
 * Matemática Discreta (gráficos e lógica);
 * Português (pontuação e concordância);
