@@ -1,6 +1,6 @@
 # E-Scholar - site de conteúdos didáticos universitários
 
-*ficaria cbom tirar o título e colocar ele na imagem com o logo? testar pra ver*
+*ficaria bom tirar o título e colocar ele na imagem com o logo? testar pra ver*
 
 
 ## Resumo do projeto
@@ -24,7 +24,6 @@ O grupo 03 é formado por:
 - [Kevin Felipe da Silva Pereira - DT](https://www.linkedin.com/in/kevin-pereira-3a7aa31b7)
 - [Monique Carniello - DT](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
 - [Thiago Henrique Ferreira - SM](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
-- [Tiago Lopes Fukuoka - DT](https://github.com/Tiagofukuoka)
 
 `SM - Scrum Master`
 `DT - Developers Team`
@@ -67,7 +66,7 @@ O grupo 03 é formado por:
 | Telas de login                        |
 | Tela inicial                          |
 | Conteúdo de duas disciplinas          |
-| Tela de desistênia da compra          |
+| Tela de desistência da compra         |
 | Relatórios                            |
 
 
@@ -98,7 +97,7 @@ O grupo 03 é formado por:
 
 
 
-# *O QUE ESTÁ A PARTIR DAQUI VAI SER EXCLUÍDO QUANDO TERMINARMOS DE COLOCAR AS INFORMAÇÕES NA SPRINT 0
+# O QUE ESTÁ A PARTIR DAQUI VAI SER EXCLUÍDO QUANDO TERMINARMOS DE COLOCAR AS INFORMAÇÕES NA SPRINT 0
 
 
 ## :art: Prótipos:
