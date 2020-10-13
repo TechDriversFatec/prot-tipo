@@ -1,4 +1,3 @@
-# E-Scholar - site de conteúdos didáticos universitários
 
 <img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/capa_projeto_pi.png">
 
