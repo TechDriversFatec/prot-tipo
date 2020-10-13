@@ -1,6 +1,6 @@
 # E-Scholar - site de conteúdos didáticos universitários
 
-*ficaria bom tirar o título e colocar ele na imagem com o logo? testar pra ver*
+<img href="https://cdn.discordapp.com/attachments/752686402306703393/764112629047361536/capa_projeto_pi.png">
 
 
 ## Objetivo do projeto
