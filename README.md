@@ -1,6 +1,6 @@
 # E-Scholar - site de conteúdos didáticos universitários
 
-<img href="https://cdn.discordapp.com/attachments/752686402306703393/764112629047361536/capa_projeto_pi.png">
+<img href="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/capa_projeto_pi.png">
 
 
 ## Objetivo do projeto
