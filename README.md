@@ -73,18 +73,14 @@ O grupo 03 é formado por:
 # Entregas
 
 
-## Sprint 0
+[Sprint 0]
 
-*aqui a gente faz uma breve descrição de porque escolhemos entregar o que entregamos
+[Sprint 01]
 
-*aqui a gente vai listando tudo que foi feito, com os links necessários
+[Sprint 02]
 
+[Sprint 03]
 
-## Sprint 1
-
-*aqui a gente faz uma breve descrição de porque escolhemos entregar o que entregamos
-
-*aqui a gente vai listando tudo que foi feito, com os links necessários
 
 
 
