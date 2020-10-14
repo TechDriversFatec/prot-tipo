@@ -4,7 +4,7 @@
 
 ## Objetivo do projeto
 
- Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático universitário que contenha materiais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
+Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático universitário que contenha materiais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
  
 * Matemática Discreta (gráficos e lógica);
 * Português (pontuação e concordância);
@@ -33,53 +33,22 @@ O grupo 03 é formado por:
 
 <img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Tecnologias.jpg">
 
-* Planejamento: Trello, Discord e Figma
-*
-*
-*
 
 
-## Cronograma de entregas
+## Backlog 
 
-| **SPRINT 0: 27/09/2020**              |
-| :-----------------------------------: |
-|Protótipo                              |
-|Identidade visual                      |
-|Regra de negócio                       |
-|                                       |
-|                                       |
-| **SPRINT 01: 17/10/2020**             |
-| Tela de cadastro do administrador     |
-| Tela de cadastro das displinas        |
-| Conteúdo de duas disciplinas          |
-|                                       |
-|                                       |
-| **SPRINT 2: 08/11/2020**              |
-| Carrinho de compras                   |
-| Tela de créditos e compras anteriores |
-| Conteúdo de duas disciplinas          |
-|                                       |
-|                                       |
-| **SPRINT 3: 29/11/2020**              |
-| Telas de login                        |
-| Tela inicial                          |
-| Conteúdo de duas disciplinas          |
-| Funcionalidade customizada            |
-| Relatórios                            |
+# aqui vai a imagem
 
 
 
 
-# Entregas
+# Sprints
 
 
-[Sprint 0]
+[Sprint 0 - 27/09/2020]
 
-[Sprint 01]
+[Sprint 01 - 16/10/2020]
 
-[Sprint 02]
-
-[Sprint 03]
 
 
 
