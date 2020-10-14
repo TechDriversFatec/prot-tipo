@@ -45,7 +45,7 @@ O grupo 03 é formado por:
 # Sprints
 
 
-[Sprint 0 - 27/09/2020] (https://github.com/PI-Grupo-3/prot-tipo/blob/master/Sprint%200)
+[Sprint 0 - 27/09/2020](https://github.com/PI-Grupo-3/prot-tipo/blob/master/Sprint%200)
 
 [Sprint 01 - 16/10/2020]
 
