@@ -2,6 +2,7 @@
 <img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/capa_projeto_pi.png">
 
 
+
 ## Objetivo do projeto
 
 Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático universitário que contenha materiais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
@@ -12,6 +13,7 @@ Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático 
 * Inglês;
 * Laboratório de Hardware;
 * Arquitetura e Organização de Computadores.
+
 
 
 
@@ -27,6 +29,7 @@ O grupo 03 é formado por:
 
 `SM - Scrum Master`
 `DT - Developers Team`
+
 
 
 
