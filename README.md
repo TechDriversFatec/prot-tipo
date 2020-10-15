@@ -3,7 +3,7 @@
 
 
 
-## Objetivo do projeto
+## Proposta
 
 Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático universitário que contenha materiais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
  
