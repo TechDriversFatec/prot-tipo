@@ -32,6 +32,10 @@ O grupo 03 é formado por:
 
 
 
+## Backlog 
+
+## aqui vai a imagem
+
 
 ## Tecnologias utilizadas no desenvolvimento
 
@@ -40,11 +44,6 @@ O grupo 03 é formado por:
 
 
 
-
-
-## Backlog 
-
-# aqui vai a imagem
 
 
 
