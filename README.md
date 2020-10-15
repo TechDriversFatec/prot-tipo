@@ -54,13 +54,13 @@ O grupo 03 é formado por:
 [Sprint 0 - 07/09/2020 a 27/09/2020](https://github.com/PI-Grupo-3/Sprint-0)
 
 
-[Sprint 01 - 28/09/2020 a 17/10/2020](https://github.com/PI-Grupo-3/prot-tipo/new/master)
+[Sprint 01 - 28/09/2020 a 17/10/2020](https://github.com/PI-Grupo-3/Sprint-01)
 
 
-[Sprint 01 - 18/10/2020 a 08/11/2020]
+[Sprint 02 - 18/10/2020 a 08/11/2020](https://github.com/PI-Grupo-3/Sprint-02)
 
 
-[Sprint 01 - 09/11/2020 a 29/11/2020]
+[Sprint 03 - 09/11/2020 a 29/11/2020](https://github.com/PI-Grupo-3/Sprint-03)
 
 
 
