@@ -3,20 +3,6 @@
 
 
 
-## Proposta
-
-Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático universitário que contenha materiais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
- 
-* Matemática Discreta (gráficos e lógica);
-* Português (pontuação e concordância);
-* Lógica de Programação;
-* Inglês;
-* Laboratório de Hardware;
-* Arquitetura e Organização de Computadores.
-
-
-
-
 ## Apresentação
 
 Somos alunos da 1º semestre A (2020-2) do curso de Análise e Desenvolvimento de Sistemas da Fatec São José dos Campos - Prof. Jessen Vidal.
@@ -30,6 +16,16 @@ O grupo 03 é formado por:
 `SM - Scrum Master`
 `DT - Developers Team`
 
+## Proposta
+
+Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático universitário que contenha materiais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
+ 
+* Matemática Discreta (gráficos e lógica);
+* Português (pontuação e concordância);
+* Lógica de Programação;
+* Inglês;
+* Laboratório de Hardware;
+* Arquitetura e Organização de Computadores.
 
 
 ## Backlog 
