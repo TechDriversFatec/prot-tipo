@@ -14,6 +14,7 @@ Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático 
 * Arquitetura e Organização de Computadores.
 
 
+
 ## Apresentação
 
 Somos alunos da 1º semestre A (2020-2) do curso de Análise e Desenvolvimento de Sistemas da Fatec São José dos Campos - Prof. Jessen Vidal.
@@ -28,10 +29,13 @@ O grupo 03 é formado por:
 `DT - Developers Team`
 
 
+
 ## Tecnologias utilizadas no desenvolvimento
 
 
 <img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Tecnologias.jpg">
+
+
 
 
 
@@ -76,11 +80,3 @@ O grupo 03 é formado por:
 
 
 
-
-## Regra de negócio: 
-
-* Amostras gratuitas de conteúdo mediante cadastro de e-mail para posterior ação de marketing.
-* Pagamento por boleto ou cartão de crédito.
-* Valor por disciplina e valor para acesso a todas. 
-* Acesso vitalício e ilimitado.
-* Desistência da compra de acordo com a legislação vigente
