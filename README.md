@@ -69,18 +69,3 @@ O grupo 03 é formado por:
 
 
 
-# O QUE ESTÁ A PARTIR DAQUI VAI SER EXCLUÍDO QUANDO TERMINARMOS DE COLOCAR AS INFORMAÇÕES NA SPRINT 0
-
-
-## :art: Prótipos:
-
-<img align="center" src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Cover.png"  height="250" width="450">
-
-### Clique no link abaixo para visualizar o protótipo.
-
-> [Administrador do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=65%3A1274&scaling=min-zoom)
-  
-> [Usuário do site](https://www.figma.com/proto/0vJ4fIZwk8dtKYKwsZpGIp/GRUPO-III---FATEC?node-id=160%3A2242&scaling=min-zoom)
-
-
-
