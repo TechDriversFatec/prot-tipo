@@ -30,7 +30,8 @@ Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático 
 
 ## Backlog 
 
-## aqui vai a imagem
+
+aqui vai a imagem
 
 
 ## Tecnologias utilizadas no desenvolvimento
