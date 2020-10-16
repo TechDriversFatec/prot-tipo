@@ -28,7 +28,7 @@ Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático 
 * Arquitetura e Organização de Computadores.
 
 
-## Backlog 
+<img src = "https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Backlog.jpeg">
 
 
 aqui vai a imagem
