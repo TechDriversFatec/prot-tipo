@@ -39,7 +39,7 @@ Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático 
 ## Backlog do produto
 
 
-<img src = "">
+<img src = "https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/backlog%20do%20produto.png">
 
 
 
