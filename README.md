@@ -43,7 +43,7 @@ Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático 
 
 
 
-## Cronograma do projeto
+## Cronograma das entregas
 
 
 
