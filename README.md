@@ -45,7 +45,7 @@ Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático 
 
 ## Planejamento das entregas
 
-<img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Planejamento%20das%20sprints.pdf">
+<img src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Planejamento%20das%20sprints.jpeg">
 
 
 
