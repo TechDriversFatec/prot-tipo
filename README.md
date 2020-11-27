@@ -62,6 +62,7 @@ Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático 
 [Sprint 02 - 18/10/2020 a 08/11/2020](https://github.com/PI-Grupo-3/Sprint-02)
 
 
+[Sprint 03 - 09/11/2020 a 29/11/2020] (https://github.com/PI-Grupo-3/Sprint-03)
 
 
 
