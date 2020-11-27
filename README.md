@@ -20,7 +20,7 @@ O grupo 03 é formado por:
 
 Utilizando Metologia Ágil, desenvolver um site de venda de conteúdo didático universitário que contenha materiais em formato de texto, vídeo e jogos das discilplinas abaixo, além de uma funcionalidade customizada
  
-* Matemática Discreta (gráficos e lógica);
+* Matemática Discreta (gráfos e lógica);
 * Português (pontuação e concordância);
 * Lógica de Programação;
 * Inglês;
